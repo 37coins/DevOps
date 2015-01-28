@@ -1,0 +1,18 @@
+{
+  "name": "bitcoind-heartbeat",
+  "version": "0.0.1",
+  "description": "Simple http server checking on request whether bitcoind instance is alive",
+  "main": "bitcoind-heartbeat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/37coins/DevOps/"
+  },
+  "author": "Kosta Korenkov <7r0ggy@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "~0.3.0"
+  }
+}
