@@ -4,5 +4,5 @@
 
 ````
 npm install
-node bitcoind-heartbeat.js
+node bitcoind-heartbeat.js &
 ````
